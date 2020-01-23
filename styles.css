@@ -1,0 +1,57 @@
+body {
+    background-image: URL("https://i.pinimg.com/474x/09/2d/58/092d58c307f6c5ae342e5906f5215dd5.jpg");
+    Color: gray;
+}
+
+
+h1 {
+    border-style: outset;
+}
+
+ul {
+    list-style-type: square;
+    font-family: 'Bungee Inline', cursive;
+    font-size: 20px;
+}
+
+h2 {
+    text-align: left;
+    font-size: 30px;
+}
+
+.artist {
+    color: gray;
+}
+
+img {
+    width: 350px;
+    border-style: outset;
+}
+
+.size {
+    text-align: left;
+    color: gray;
+    font-family: 'Kumar One Outline', cursive;
+}
+
+.comidian {
+    color: gray;
+}
+
+.youtubers {
+    color: gray;
+}
+
+.style {
+    border-style: dashed;
+    width: 600px;
+    height: 50px;
+}
+
+.show {
+    color: gray;
+}
+
+.sign {
+    color: gray;
+}
